@@ -12,6 +12,10 @@ html {
 body {
     font-family: 'Outfit', sans-serif;
     background-color: var(--light-gray);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .main-section {
